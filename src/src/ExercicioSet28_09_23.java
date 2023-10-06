@@ -13,7 +13,7 @@ import java.util.List;
  * Filtragem de Elementos: Implemente um exercício no qual você tenha uma lista de palavras e
  * precise filtrá-la para incluir apenas aquelas que começam com uma letra específica fornecida pelo usuário
  * 
- * @author dudup
+ * @author Eduardo Pereira Moreira
  */
 public final class ExercicioSet28_09_23
 {
